@@ -9,7 +9,7 @@
    ╚═╝    ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝     
 ```
 
-# Yusuf Alsaied
+# Yusuf Mohammad
 ### AI Engineer · Builder · Lifelong Learner
 
 [![Profile Views](https://komarev.com/ghpvc/?username=imunderthetree&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/imunderthetree)
@@ -23,7 +23,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class YusufAlsaied:
+class Yusuf Mohammad:
     role       = "AI Engineer"
     learning   = ["Deep Learning", "AI Frameworks", "LLMs"]
     open_to    = ["Open Source Collaboration", "Full-Stack Projects"]
@@ -38,7 +38,7 @@ class YusufAlsaied:
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imunderthetree&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=imunderthetree&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
