@@ -15,6 +15,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=imunderthetree&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/imunderthetree)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel)](https://yusufmohammaddsai.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1v9qNDG_trYH-PpdaRKQU6rK8tEzQkJoZ/view?usp=sharing)
+![Open to Work](https://img.shields.io/badge/%F0%9F%A4%9D_Open_to_Work-brightgreen?style=for-the-badge)
 
 </div>
 
@@ -23,7 +24,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class Yusuf Mohammad:
+class YusufA Mohammad:
     role       = "AI Engineer"
     learning   = ["Deep Learning", "AI Frameworks", "LLMs"]
     open_to    = ["Open Source Collaboration", "Full-Stack Projects"]
@@ -36,9 +37,74 @@ class Yusuf Mohammad:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧟 Meanwhile in my codebase...
 
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=imunderthetree&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+```
+████████████████████████████████████████████████
+█  STATUS: SURVIVING THE BUG APOCALYPSE         █
+█                                               █
+█  [!] CRITICAL ERROR DETECTED                  █
+█  [!] COFFEE LEVELS: CRITICAL                  █
+█  [!] STACK OVERFLOW: IMMINENT                 █
+█                                               █
+█  bugs_remaining  = float('inf')               █
+█  coffee_consumed = also float('inf')          █
+█  sanity_left     = 0                          █
+█                                               █
+█  >> running fix_everything.py ...             █
+█  >> segmentation fault (core dumped)          █
+█                                               █
+█           YOU DIED                            █
+█       [ CONTINUE? ]  [ GIVE UP? ]             █
+████████████████████████████████████████████████
+```
+
+---
+
+## 🧠 Random CS Fact
+
+> 💡 **Did you know?** The first computer bug was an actual real bug — a moth found trapped in a relay of the Harvard Mark II in 1947. Grace Hopper's team taped it into their logbook with the note: *"First actual case of bug being found."*
+
+![Dev Joke](https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=%230d1117&borderColor=%2330363d&qColor=%2358a6ff&aColor=%2379c0ff&textColor=%23c9d1d9)
+
+---
+
+## 🃏 Developer Card
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imunderthetree&theme=tokyonight)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imunderthetree&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imunderthetree&theme=tokyonight)
+
+---
+
+## 🔥 Most Starred Repos
+
+[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=imunderthetree&repo=imunderthetree&theme=tokyonight&hide_border=true)](https://github.com/imunderthetree?tab=repositories&sort=stargazers)
+
+> ☝️ *[See all repos sorted by stars →](https://github.com/imunderthetree?tab=repositories&sort=stargazers)*
+
+---
+
+## 🌍 Visitor Map
+
+![Visitor Counter](https://profile-counter.glitch.me/imunderthetree/count.svg)
+
+![Snake Animation](https://raw.githubusercontent.com/imunderthetree/imunderthetree/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 🎮 Currently Playing
+
+![Steam](https://img.shields.io/badge/Steam-Resident_Evil_9_(probably)-1b2838?style=for-the-badge&logo=steam&logoColor=white)
+
+```
+🎮 Current save file:
+   Game    : Resident Evil 9
+   Chapter : Still better than RE7
+   Status  : Died 47 times. Blaming the AI.
+   Coffee  : ☕☕☕☕☕ (5/5 consumed)
+```
 
 ---
 
@@ -119,6 +185,8 @@ class Yusuf Mohammad:
 
 ---
 
-<div align="center">
-  <i>"The best way to predict the future is to build it." — Alan Kay</i>
-</div>
+```
+🧟 "It doesn't matter how many times you get bitten...
+     what matters is you keep pushing commits."
+                                   — Yusuf, probably
+```
