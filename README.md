@@ -45,28 +45,6 @@ class YusufMohammad:
 
 ---
 
-## 🔥 Most Starred Repos
-
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=imunderthetree&repo=imunderthetree&theme=tokyonight&hide_border=true)](https://github.com/imunderthetree?tab=repositories&sort=stargazers)
-
-> ☝️ *[See all repos sorted by stars →](https://github.com/imunderthetree?tab=repositories&sort=stargazers)*
-
----
-
-## 🎮 Currently Playing
-
-![Steam](https://img.shields.io/badge/Steam-Resident_Evil_9_(probably)-1b2838?style=for-the-badge&logo=steam&logoColor=white)
-
-```
-🎮 Current save file:
-   Game    : Resident Evil 9
-   Chapter : Still better than RE7
-   Status  : Died 47 times. Blaming the AI.
-   Coffee  : ☕☕☕☕☕ (5/5 consumed)
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / ML
@@ -147,5 +125,11 @@ class YusufMohammad:
 ```
 🧟 "It doesn't matter how many times you get bitten...
      what matters is you keep pushing commits."
-                                   — Yusuf, probably
+                                   — idk
 ```
+
+---
+
+<div align="center">
+  "The best way to predict the future is to build it." — Alan Kay
+</div>
