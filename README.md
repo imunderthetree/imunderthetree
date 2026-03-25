@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class YusufA Mohammad:
+class YusufMohammad:
     role       = "AI Engineer"
     learning   = ["Deep Learning", "AI Frameworks", "LLMs"]
     open_to    = ["Open Source Collaboration", "Full-Stack Projects"]
@@ -37,30 +37,6 @@ class YusufA Mohammad:
 
 ---
 
-## 🧟 Meanwhile in my codebase...
-
-```
-████████████████████████████████████████████████
-█  STATUS: SURVIVING THE BUG APOCALYPSE         █
-█                                               █
-█  [!] CRITICAL ERROR DETECTED                  █
-█  [!] COFFEE LEVELS: CRITICAL                  █
-█  [!] STACK OVERFLOW: IMMINENT                 █
-█                                               █
-█  bugs_remaining  = float('inf')               █
-█  coffee_consumed = also float('inf')          █
-█  sanity_left     = 0                          █
-█                                               █
-█  >> running fix_everything.py ...             █
-█  >> segmentation fault (core dumped)          █
-█                                               █
-█           YOU DIED                            █
-█       [ CONTINUE? ]  [ GIVE UP? ]             █
-████████████████████████████████████████████████
-```
-
----
-
 ## 🧠 Random CS Fact
 
 > 💡 **Did you know?** The first computer bug was an actual real bug — a moth found trapped in a relay of the Harvard Mark II in 1947. Grace Hopper's team taped it into their logbook with the note: *"First actual case of bug being found."*
@@ -69,28 +45,11 @@ class YusufA Mohammad:
 
 ---
 
-## 🃏 Developer Card
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imunderthetree&theme=tokyonight)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imunderthetree&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imunderthetree&theme=tokyonight)
-
----
-
 ## 🔥 Most Starred Repos
 
 [![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=imunderthetree&repo=imunderthetree&theme=tokyonight&hide_border=true)](https://github.com/imunderthetree?tab=repositories&sort=stargazers)
 
 > ☝️ *[See all repos sorted by stars →](https://github.com/imunderthetree?tab=repositories&sort=stargazers)*
-
----
-
-## 🌍 Visitor Map
-
-![Visitor Counter](https://profile-counter.glitch.me/imunderthetree/count.svg)
-
-![Snake Animation](https://raw.githubusercontent.com/imunderthetree/imunderthetree/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
