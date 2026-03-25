@@ -125,7 +125,7 @@ class YusufMohammad:
 ```
 🧟 "It doesn't matter how many times you get bitten...
      what matters is you keep pushing commits."
-                                   — idk
+                                   — Leon would say that if he was a CS major
 ```
 
 ---
