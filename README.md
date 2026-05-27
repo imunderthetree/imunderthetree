@@ -27,7 +27,7 @@
 class YusufMohammad:
     role       = "AI Engineer"
     learning   = ["Deep Learning", "AI Frameworks", "LLMs"]
-    open_to    = ["Open Source Collaboration", "Full-Stack Projects"]
+    open_to    = ["Open Source Collaboration", "Full-Stack Projects","ML Projects"]
     contact    = "yusufalazhar7@gmail.com"
     fun_fact   = "Resident Evil 9 > Resident Evil 7 🧟"
     
