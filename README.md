@@ -14,7 +14,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=imunderthetree&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/imunderthetree)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel)](https://yusufmohammaddsai.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1v9qNDG_trYH-PpdaRKQU6rK8tEzQkJoZ/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1RaFQvWYbiBaVIPjtkHs15PUIOn1_Q7rJ/view?usp=sharing)
 ![Open to Work](https://img.shields.io/badge/%F0%9F%A4%9D_Open_to_Work-brightgreen?style=for-the-badge)
 
 </div>
