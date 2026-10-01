@@ -1,7 +1,7 @@
 <div align="center">
 
 # Yusuf Mohammad
-### AI Engineer · Builder · Lifelong Learner
+### ML Engineer · Builder · Lifelong Learner
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel)](https://imunderthetree.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1RaFQvWYbiBaVIPjtkHs15PUIOn1_Q7rJ/view?usp=sharing)
