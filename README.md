@@ -53,7 +53,7 @@ Learning **Deep Learning, AI frameworks and LLMs**. Open to open-source collabor
 
 <div align="center">
   <a href="https://codeforces.com/profile/cloudielst">
-    <img src="./assets/cf-heatmap.svg" alt="Codeforces submission heatmap"/>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=cloudielst&theme=tokyonight" alt="Codeforces stats"/>
   </a>
 </div>
 
