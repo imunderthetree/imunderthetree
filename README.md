@@ -3,7 +3,7 @@
 # Yusuf Mohammad
 ### ML Engineer · Builder · Lifelong Learner
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel)](https://imunderthetree.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel)](https://yusufmohammaddsai.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1RaFQvWYbiBaVIPjtkHs15PUIOn1_Q7rJ/view?usp=sharing)
 ![Open to Work](https://img.shields.io/badge/%F0%9F%A4%9D_Open_to_Work-brightgreen?style=for-the-badge)
 
